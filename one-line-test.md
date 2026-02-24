@@ -1,2 +1,2 @@
 Hello World!
-Changing these files for Git
+My line two is better than your line two
